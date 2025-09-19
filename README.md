@@ -8,7 +8,7 @@ This project was developed for the Gen AI Exchange Hackathon.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 **[Link to the Deployed Application]** - *(Add your Render/Heroku link here)*
 
