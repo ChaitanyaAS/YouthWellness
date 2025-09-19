@@ -95,3 +95,23 @@ To run this project locally, follow these steps:
     The application will be available at `http://127.0.0.1:5000`.
 
 ## Project Structure
+
+├── app.py              # Main Flask application logic
+├── youth_wellness_model.keras # Trained TensorFlow/Keras model
+├── scaler.joblib       # Saved Scikit-learn scaler
+├── requirements.txt    # Python dependencies
+├── Procfile            # Deployment configuration for Render/Heroku
+├── static/             # Contains CSS, JS, images
+└── templates/          # Contains HTML files for the frontend
+
+
+## Team
+
+* **Chaitanya A S** *
+* * **Gauravi k S** *
+* * **Aneesh  Aditya SR** *
+
+
+## License
+
+This project is licensed under the **MIT License**.
