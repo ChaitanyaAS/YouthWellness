@@ -10,7 +10,7 @@ This project was developed for the Gen AI Exchange Hackathon.
 
 ##  Live Demo
 
-**[Link to the Deployed Application]** - *(Add your Render/Heroku link here)*
+**[Link to the Deployed Application]** - *https://eudaimonia.up.railway.app/*
 
 ---
 
